@@ -1,0 +1,16 @@
+body {
+  background-color: #b4b4b4;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  margin-top: 20px;
+  background-color: #5b5b5b;
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  border: solid 1px black;
+  border-radius: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
